@@ -1,0 +1,22 @@
+.container{
+  width:35%;
+  background-color: rgb(241, 240, 240);
+}
+.form-group {
+    position: relative;
+  }
+  .form-group i {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  .form-group .error-text {
+    color: red;
+    margin-top: 5px;
+  }
+  
+button{
+    width:100%;
+    background-color: rgb(244, 77, 77) !important;
+    border-color: rgb(244, 77, 77) !important;
+}
